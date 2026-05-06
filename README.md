@@ -1,4 +1,10 @@
-# sv
+# Contacts web app
+built using svelte
+features
+- log in / register
+- add / delete contacts
+- log out
+- boring css
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
 
